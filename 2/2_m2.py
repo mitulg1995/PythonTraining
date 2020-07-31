@@ -9,7 +9,7 @@ x.sort(reverse=True)
 
 print("\n\n")
 print("In your submission, There are",len(s0.split(".")),"sentences and",len(s0.split(" ")),"words.\n")
-print("There are",len(x),"unique characters in your String.")
+print("There are",len(x),"unique characters.")
 print("\n\n")
 
 for a in x:
